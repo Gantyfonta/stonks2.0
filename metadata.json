@@ -1,0 +1,5 @@
+{
+  "name": "StellarTrade Simulator",
+  "description": "A high-fidelity stock market simulator with real-time price dynamics, portfolio management, and AI-powered market news and analysis.",
+  "requestFramePermissions": []
+}
